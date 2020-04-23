@@ -1,0 +1,31 @@
+category,ticker,name,open,previousclose,volume,marketcap
+Most Actives,GE,General Electric Company,6.59,6.48,74815424,55.941B
+Most Actives,DAL,"Delta Air Lines, Inc.",23.88,23.10,69731747,14.383B
+Most Actives,F,Ford Motor Company,4.8700,4.7700,60825930,18.969B
+Most Actives,T,AT&T Inc.,30.90,29.87,50237927,211.686B
+Most Actives,LB,"L Brands, Inc.",12.31,12.06,49302470,2.818B
+Most Actives,BAC,Bank of America Corporation,21.90,21.64,48413666,189.126B
+Most Actives,OXY,Occidental Petroleum Corporation,13.08,12.34,44385191,11.936B
+Most Actives,HAL,Halliburton Company,7.85,7.46,39219390,7.188B
+Most Actives,CCL,Carnival Corporation & Plc,12.08,11.84,38004499,9.105B
+Most Actives,MRO,Marathon Oil Corporation,4.4000,4.2400,37570770,3.581B
+Gainers,CMG,"Chipotle Mexican Grill, Inc.",848.99,786.69,2334316,24.534B
+Gainers,TWTR,"Twitter, Inc.",27.00,25.75,27726976,22.315B
+Gainers,HAL,Halliburton Company,7.85,7.46,39219390,7.188B
+Gainers,APA,Apache Corporation,9.00,8.57,26230136,3.555B
+Gainers,PXD,Pioneer Natural Resources Company,77.59,73.47,3334032,13.298B
+Gainers,FTI,TechnipFMC plc,7.91,7.53,3965510,3.662B
+Gainers,HES,Hess Corporation,38.56,36.37,3171264,12.019B
+Gainers,DRI,"Darden Restaurants, Inc.",64.98,63.32,6524621,8.252B
+Gainers,DVN,Devon Energy Corporation,9.58,9.05,7251471,3.729B
+Gainers,CXO,Concho Resources Inc.,52.46,49.61,2237838,10.451B
+Losers,LB,"L Brands, Inc.",12.31,12.06,49302470,2.818B
+Losers,KSS,Kohl's Corporation,16.90,16.48,10969278,2.389B
+Losers,GPS,"The Gap, Inc.",7.71,7.56,11229045,2.649B
+Losers,CB,Chubb Limited,114.32,112.39,4520040,47.944B
+Losers,WRB,W. R. Berkley Corporation,52.72,53.35,2053118,9.406B
+Losers,HBI,Hanesbrands Inc.,8.81,8.68,5348882,2.995B
+Losers,FRT,Federal Realty Investment Trust,70.70,70.41,1091112,5.139B
+Losers,TSN,"Tyson Foods, Inc.",62.19,61.91,3874146,21.873B
+Losers,CPRI,Capri Holdings Limited,11.85,11.48,3977511,1.661B
+Losers,UPS,"United Parcel Service, Inc.",101.50,100.62,4965712,83.793B
